@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Hexagon Shapes</name>
+	<url>https://github.com/merthsoft/hexagon-shape</url>
+	<author>merthsoft</author>
+	<supportedVersions>
+		<li>1.6</li>
+	</supportedVersions>
+	<incompatibleWith>
+    	<li>Merthsoft.DesignatorShapes</li>
+	</incompatibleWith>
+	<packageId>Merthsoft.DesignatorShapes.Hexagons</packageId>
+	<description>Adds hexagon outline and fill shapes to the drawing palette.
+
+Art by Halno.</description>
+	<modIconPath IgnoreIfNoMatchingField="True">UI/Commands/Smol/hexagon_filled</modIconPath>
+</ModMetaData>
