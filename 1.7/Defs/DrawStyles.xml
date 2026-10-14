@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <DrawStyleDef>
+    <defName>Hexagon</defName>
+    <label>filled hexagon</label>
+    <uiIconPath>UI/Commands/Smol/hexagon_filled</uiIconPath>
+    <drawStyleType>Merthsoft.DesignatorShapes.Hexagon.Filled</drawStyleType>
+    <drawOutline>true</drawOutline>
+  </DrawStyleDef>
+
+  <DrawStyleDef>
+    <defName>HexagonOutline</defName>
+    <label>hexagon</label>
+    <uiIconPath>UI/Commands/Smol/hexagon</uiIconPath>
+    <drawStyleType>Merthsoft.DesignatorShapes.Hexagon.Outline</drawStyleType>
+    <drawOutline>true</drawOutline>
+  </DrawStyleDef>
+
+  <DrawStyleDef>
+    <defName>HexagonMidpoint</defName>
+    <label>midpoint filled hexagon</label>
+    <uiIconPath>UI/Commands/Smol/hexagon_filled_midpoint</uiIconPath>
+    <drawStyleType>Merthsoft.DesignatorShapes.Hexagon.MidpointFilled</drawStyleType>
+    <drawOutline>true</drawOutline>
+  </DrawStyleDef>
+
+  <DrawStyleDef>
+    <defName>HexagonOutlineMidpoint</defName>
+    <label>midpoint hexagon</label>
+    <uiIconPath>UI/Commands/Smol/hexagon_midpoint</uiIconPath>
+    <drawStyleType>Merthsoft.DesignatorShapes.Hexagon.MidpointOutline</drawStyleType>
+    <drawOutline>true</drawOutline>
+  </DrawStyleDef>
+</Defs>
